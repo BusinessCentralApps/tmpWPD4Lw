@@ -4,5 +4,6 @@
   "type": "PTE",
   "MicrosoftTelemetryConnectionString": "",
   "doNotPublishApps": true,
-  "templateUrl": "https://github.com/businesscentralapps/tmpcJVkFH-PTE@main"
+  "templateUrl": "https://github.com/businesscentralapps/tmpcJVkFH-PTE@main",
+  "templateSha": "4407c6b30b6c5b490a1afc9dea6d4b39f876a1b8"
 }
